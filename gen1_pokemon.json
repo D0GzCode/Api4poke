@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "identifier": "bulbasaur",
+    "species_id": "1",
+    "height": "7",
+    "weight": "69",
+    "base_experience": "64",
+    "order": "1",
+    "is_default": "1",
+    "hp": 45,
+    "attack": 49,
+    "defense": 49,
+    "special_attack": 65,
+    "special_defense": 65,
+    "speed": 45
+  }
+  // Add remaining Pokémon data here...
+]
